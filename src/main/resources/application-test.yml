@@ -1,0 +1,5 @@
+
+
+resource:
+  imageServer: http://localhost:8080/image.test.com
+  emailServer: http://localhost:8080/email.test.com
